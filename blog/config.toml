@@ -1,3 +1,4 @@
-baseURL = "http://matthosack.com/"
+baseurl = "http://matthosack.com/"
 languageCode = "en-us"
-title = "Matt Hosack's Blog"
+title = "Matt Hosack's blog"
+theme = "base16"
