@@ -1,4 +1,4 @@
 baseurl = "http://matthosack.com/"
 languageCode = "en-us"
 title = "Matt Hosack's blog"
-theme = "base16"
+theme = "hugo-base16-theme"
