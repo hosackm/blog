@@ -1,13 +1,13 @@
 ---
-title: "An audio software engineer's foray into RESTful APIs"
+title: "Intro to REST APIs: Part 1"
 date: 2017-07-10T20:46:29-07:00
 ---
 
 ## When it comes to writing software
 
-I'm more comfortable calculating the RMS of an array of PCM samples or implementing a variable delay ringbuffer. 
+I'm more comfortable calculating the RMS of an array of PCM samples or implementing a variable delay ringbuffer.
 
-There are many technologies out there (that are commonplace to most developers) that I have yet to deal with in my worklife.  RESTful APIs are one of those technologies.  To have a wealth of information only an HTTP request away was exciting but it's not the thing that comes up often when building an audio system.
+There are exciting technologies out there (that are commonplace to most developers) that I have yet to deal with in my worklife.  RESTful APIs are one of those technologies.  To have a wealth of information only an HTTP request away is exciting but it's not the thing that comes up often when building an audio system.
 
 In order to get more familiar with how these APIs work I undertook a small project; I'd automate one of my methods for discovering new music through Spotify.
 
@@ -31,4 +31,4 @@ In the following posts I'll break down how I solved each of these subproblems an
 
 ## Wrap-Up
 
-In the next post I'll talk about how I scraped the information from Metacritic.
+In [part 2](/post/intro_to_apis/scraping_metacritic) I'll talk about how I scraped the information from Metacritic.
